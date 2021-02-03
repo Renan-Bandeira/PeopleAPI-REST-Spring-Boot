@@ -1,3 +1,4 @@
+/*
 package one.digitalinnovation.personapi.mapper;
 
 import one.digitalinnovation.personapi.dto.request.PersonDTO;
@@ -14,3 +15,4 @@ public interface PersonMapper {
     Person toModel(PersonDTO personDTO);
     PersonDTO toDTO(Person person);
 }
+*/
