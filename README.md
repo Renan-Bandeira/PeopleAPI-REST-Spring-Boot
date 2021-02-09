@@ -40,8 +40,6 @@ http://localhost:8080/api/v1/people
 
 - Spring Boot Actuator
 
-- Spring Data
-
 - H2 Database
 
 - Map Struct
