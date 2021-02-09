@@ -25,6 +25,7 @@ http://localhost:8080/api/v1/people
 - Intellj IDEA Community Edition.
 - Controle de versão GIT.
 - Heroku para o deploy do projeto na nuvem
+- Postman
 
 
 
